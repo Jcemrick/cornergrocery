@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corner Grocery Project 3 - CS210
 ---
 - ## Summarize the project and what problem it was solving.
@@ -15,3 +16,6 @@
 - ## How did you make this program maintainable, readable, and adaptable?
   I've had issues commenting on my code. I think I did well on this project in that regard. And therefore, it is easier to modify and quickly reference certain areas of my code.
 "# cornergrocery" 
+=======
+Pending updates!
+>>>>>>> ae0031b4b705c9d85fd2ae67736a225cff5da164
